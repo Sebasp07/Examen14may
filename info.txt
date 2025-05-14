@@ -2,3 +2,7 @@ paso 1: registrar una cuenta en git hub es lo mas crucial
 
 paso 2:crear un repositorio remoto en github depues de registrarse
 ,crear un nombre para el repositorio
+
+paso 3: conectar el directorio git al proyecto del repositorio
+remoto
+una ves creado, tienes que vincularlo
